@@ -8,6 +8,10 @@ Our clients are in the process of creating an online store and needed some help 
 [Walkthrough Video](https://drive.google.com/file/d/1mWCLKPy30O50la0oHR80dt8Vlf_5rtJa/view?usp=sharing)
 
 ![Screenshot](assets/E-Commerce02.png)
+SQL database creation
+
+![Screenshot](assets/E-Commerce03.png)
+Database seeding
 
 ## Installation
 - Clone the repository
